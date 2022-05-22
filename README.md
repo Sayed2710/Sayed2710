@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayed_Ali</h1>
-- 🌱 I’m currently learning **Django**
+<h3 align="center">Frontend Developer</h3>
+
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://sayed2710.github.io/My_Portfolio/pages/Sayed.html](https://sayed2710.github.io/My_Portfolio/pages/Sayed.html)
 
